@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello.
-# I am me.
+# Hello.
+### I am me.
 
 https://fearedfusionx.github.io/FearedFusionX/
