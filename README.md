@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 # Hello.
 ### I am me.
 
-https://fearedfusionx.github.io/FearedFusionX/
+https://fearedfusionx.github.io/FearedFusionX/home
